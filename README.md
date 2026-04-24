@@ -36,9 +36,9 @@ json
 
 json
 {
-  "user_id": "yourname_ddmmyyyy",
-  "email_id": "your@email.com",
-  "college_roll_number": "your_roll",
+  "user_id": "sarthakagarwal_28082004",
+  "email_id": "sa9916@srmist.edu.in",
+  "college_roll_number": "RA2311003040030",
   "hierarchies": [...],
   "invalid_entries": [...],
   "duplicate_edges": [...],
